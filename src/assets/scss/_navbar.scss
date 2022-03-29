@@ -1,0 +1,23 @@
+.ui.secondary.menu .item{
+    text-transform: lowercase;
+    color: #2d2e44;
+    font-weight: 400;
+    line-height: 1.5;
+    font-size: 16px;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+}
+.ui.secondary.menu .active.item {
+    background: none;
+}
+.ui.secondary.menu .dropdown.item:hover, .ui.secondary.menu .link.item:hover, .ui.secondary.menu a.item:hover {
+    background: #2d2e44;
+    color: white;
+    border-radius: 5px;
+}
+.ui.secondary.menu .active.item:hover {
+    background: #2d2e44;
+    color: white;
+    border-radius: 5px;
+}

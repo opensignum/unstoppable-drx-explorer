@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33356f9a.chunk.css",
+    "main.js": "/static/js/main.a874206f.chunk.js",
+    "main.js.map": "/static/js/main.a874206f.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.9d35e7c6.chunk.css": "/static/css/2.9d35e7c6.chunk.css",
+    "static/js/2.7fee9dbb.chunk.js": "/static/js/2.7fee9dbb.chunk.js",
+    "static/js/2.7fee9dbb.chunk.js.map": "/static/js/2.7fee9dbb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7ff0a79130ebb21ed1681827858f9039.js": "/precache-manifest.7ff0a79130ebb21ed1681827858f9039.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.9d35e7c6.chunk.css.map": "/static/css/2.9d35e7c6.chunk.css.map",
+    "static/css/main.33356f9a.chunk.css.map": "/static/css/main.33356f9a.chunk.css.map",
+    "static/media/style.scss": "/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/all.css": "/static/media/fa-solid-900.ec763292.svg",
+    "static/media/graphic.svg": "/static/media/graphic.c7645dec.svg",
+    "static/media/logo.svg": "/static/media/logo.686eb887.svg",
+    "static/media/notifications.css": "/static/media/notification.c0d3c94c.eot"
+  }
+}

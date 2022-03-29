@@ -1,0 +1,63 @@
+{
+  "name": "copyright-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@cef-ebsi/app-jwt": "0.0.11",
+    "@fortawesome/fontawesome-free": "^5.8.1",
+    "axios": "^0.19.0",
+    "classnames": "^2.2.6",
+    "country-code-lookup": "0.0.18",
+    "formsy-react": "^1.1.5",
+    "jwt-decode": "^2.2.0",
+    "material-components-web": "^7.0.0",
+    "moment": "^2.24.0",
+    "multi-slider": "^4.1.0",
+    "node-sass": "^4.11.0",
+    "prop-types": "^15.7.2",
+    "query-string": "^6.4.2",
+    "react": "^16.8.4",
+    "react-beautiful-dnd": "^11.0.2",
+    "react-code-blocks": "0.0.9-0",
+    "react-dom": "^16.8.4",
+    "react-google-charts": "^3.0.15",
+    "react-google-login": "^5.0.4",
+    "react-hook-form": "^6.8.6",
+    "react-notifications": "^1.4.3",
+    "react-redux": "^7.0.3",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "3.0.1",
+    "react-simple-maps": "^2.1.2",
+    "react-syntax-highlighter": "^15.4.3",
+    "react-text-mask": "^5.4.3",
+    "redux": "^4.0.1",
+    "redux-saga": "^1.0.2",
+    "redux-types": "^2.0.3",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.88.2",
+    "text-mask": "0.0.2",
+    "trulioo-react": "^1.7.1",
+    "uuidv4": "^6.2.5"
+  },
+  "scripts": {
+    "start": "cross-env REACT_APP_ENV_NAME=development react-scripts start",
+    "start:production": "cross-env REACT_APP_ENV_NAME=production react-scripts start",
+    "build": "cross-env REACT_APP_ENV_NAME=production react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint . --fix"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "eslint-config-airbnb": "^17.1.0"
+  }
+}
